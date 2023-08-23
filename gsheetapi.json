@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "poetic-bison-250007",
+  "private_key_id": "2c58d254750ad78dea5e63377b120f08ebf35c54",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQChyQMiVtDrRvkb\n2JGtAMzNnfq8zT/egjUjzEMvs3I6wsgFC/46pv9aHe0MrayxknzfRiKbHlOdwgjx\n8PI87lxm7JZdKsasqShAAZs54We0+cH4lc41ilpKS+XHb6aYyx2uYn9Cv/9WPCok\nq6E8wPOEgLBL/VPpSYFFAO5JGATq56ZqromcLSLz9N8ElNhPb3hwL28FQUucqKMr\nVpJ9P2TeldrZlu1p40vfDhosb/rWCjTHQvjR940EAbPf8o+vUzGLhvlhLf+T9tqY\nQcFeub9nXGOlLoFnKBBoLLlvhGz/NUclVfCQoPk+72+aFvZisAnGDdJHhqjVBUG3\nNznA/iJNAgMBAAECggEAQDg4+MQKaSJClvWYGdrT8RixI4m7vRjlfCDEWKZ8BOw1\nlp9EmsaYXQ68/ofgIZqa28wMx5M5sMkJYPR6S4p4fliSdUgaFgaNlh6tHcQmNPXh\nM8pPUPxqy8wl2U0uDb+ut/6cMoRhGDuIpQbF2YZkA6hLktZrnRJS8G+mprgUl6Ob\n3kVOavnIp22K3tWRe+pjHIrTx7QNhKtbVwMt8cmfbnoyazNMNshJ93rn+09M+pDh\njuc8U8SnDAvIOwvpDe+krIw/y5Hk5sZqICcR/F8HJn2n9qZrEAVFoCviJTo2R3gM\nrmQgdW1uYWZ3OpfLUg+rWhv0ENDTFjDzL2PnlqoK9wKBgQDNLdS3WcCNUkwBPZMh\nzEyxuYF4wX3lrT8htneykXJNRwo67vEeGijuYk2FTcmxp7lTo0oJ/j6nBvBDGNlu\nmrcQSB3fyhM6bYVg+TeJtL5F+Vq70EM8Lx5v0ujyLdJV9FYCD0leQS2pNnILdged\nrxZ3SlBGlOy+6Ho32jAth8MQjwKBgQDJ26DXjk73vaeGacRZLHcnnYXBN+HfXys7\n3pp7hGFH1HZ5IrKv6fw9ts25Xx3d5jg8uYww+JXpZrvklZklPBp7peCDWEFbC+PZ\nZRYYAJH465cMFJqjiE376PCaF4ATI4yfHnR1/kkkcM/tsW+GbDc+wFYxP9wyT9C9\nvhPnoB0VYwKBgDYbxwQPTEM4l8if92QrX3JjDGzPAieGt6ZpW0mhJ7aPbHg8OSQK\nHA85p13nNLCAHdSbtFPMU7Nylfvr2rNbY7mMeyxgOw/mgA0hy+6p1p/XcYEkHAcM\nGge9ZCcxxE1coS3r4BpWL/d23z58guenm9Ibq+3hKknyPwDprljje6KrAoGAIdNB\n4p0gMnd/aRC0LFU9KlBFJ5mbqfiioAevT19hhc3ehHICC2RkNls5ogSEVrjLV7Go\nAlTFmjTy61z+KrUlou6q7peNbBpT9gvwZdlCnLmtuAKD3z9qAfqIxumFNq/QUqGh\n1lvkGc0lqqj/DUF5CHTmfJ484dlqG0GMyFWWSg0CgYBUoerDccv/zgP2SfOPlkOl\nVu7IGiiWPlOigoyJGanV/9XIJQDAH8PPktsAq8aquqePBb3s480QYhXujk8boJxp\nAhF0IPJ/k/BZ0l1R1pOvd5noiA3Sj387YV5mw+/3eJxCD5LMG0K1aYqJJA8QRoUc\nqgugoq2WTdxrFzd8Kw8muA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "googlesheetsapi@poetic-bison-250007.iam.gserviceaccount.com",
+  "client_id": "106781633347301423407",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/googlesheetsapi%40poetic-bison-250007.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
